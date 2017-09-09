@@ -1,0 +1,7 @@
+F:\Github\DevOpsAssignment\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+F:\Github\DevOpsAssignment\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+F:\Github\DevOpsAssignment\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+F:\Github\DevOpsAssignment\ConsoleApp1\ConsoleApp1\obj\Debug\DevOpsAssignment.csprojResolveAssemblyReference.cache
+F:\Github\DevOpsAssignment\ConsoleApp1\ConsoleApp1\obj\Debug\DevOpsAssignment.csproj.CoreCompileInputs.cache
+F:\Github\DevOpsAssignment\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+F:\Github\DevOpsAssignment\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
