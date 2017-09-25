@@ -1,0 +1,16 @@
+F:\Github\DevOpsAssignment\ConsoleApp1\DevOpsAssignment.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+F:\Github\DevOpsAssignment\ConsoleApp1\DevOpsAssignment.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+F:\Github\DevOpsAssignment\ConsoleApp1\DevOpsAssignment.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+F:\Github\DevOpsAssignment\ConsoleApp1\DevOpsAssignment.Tests\bin\Debug\DevOpsAssignment.Tests.dll
+F:\Github\DevOpsAssignment\ConsoleApp1\DevOpsAssignment.Tests\bin\Debug\DevOpsAssignment.Tests.pdb
+F:\Github\DevOpsAssignment\ConsoleApp1\DevOpsAssignment.Tests\bin\Debug\ConsoleApp1.exe
+F:\Github\DevOpsAssignment\ConsoleApp1\DevOpsAssignment.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+F:\Github\DevOpsAssignment\ConsoleApp1\DevOpsAssignment.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+F:\Github\DevOpsAssignment\ConsoleApp1\DevOpsAssignment.Tests\bin\Debug\ConsoleApp1.pdb
+F:\Github\DevOpsAssignment\ConsoleApp1\DevOpsAssignment.Tests\bin\Debug\ConsoleApp1.exe.config
+F:\Github\DevOpsAssignment\ConsoleApp1\DevOpsAssignment.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+F:\Github\DevOpsAssignment\ConsoleApp1\DevOpsAssignment.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+F:\Github\DevOpsAssignment\ConsoleApp1\DevOpsAssignment.Tests\obj\Debug\DevOpsAssignment.Tests.csprojResolveAssemblyReference.cache
+F:\Github\DevOpsAssignment\ConsoleApp1\DevOpsAssignment.Tests\obj\Debug\DevOpsAssignment.Tests.csproj.CoreCompileInputs.cache
+F:\Github\DevOpsAssignment\ConsoleApp1\DevOpsAssignment.Tests\obj\Debug\DevOpsAssignment.Tests.dll
+F:\Github\DevOpsAssignment\ConsoleApp1\DevOpsAssignment.Tests\obj\Debug\DevOpsAssignment.Tests.pdb

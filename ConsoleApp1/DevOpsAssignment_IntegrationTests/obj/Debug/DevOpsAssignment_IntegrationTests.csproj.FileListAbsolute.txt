@@ -1,0 +1,16 @@
+F:\Github\DevOpsAssignment\ConsoleApp1\DevOpsAssignment_IntegrationTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+F:\Github\DevOpsAssignment\ConsoleApp1\DevOpsAssignment_IntegrationTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+F:\Github\DevOpsAssignment\ConsoleApp1\DevOpsAssignment_IntegrationTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+F:\Github\DevOpsAssignment\ConsoleApp1\DevOpsAssignment_IntegrationTests\bin\Debug\DevOpsAssignment_IntegrationTests.dll
+F:\Github\DevOpsAssignment\ConsoleApp1\DevOpsAssignment_IntegrationTests\bin\Debug\DevOpsAssignment_IntegrationTests.pdb
+F:\Github\DevOpsAssignment\ConsoleApp1\DevOpsAssignment_IntegrationTests\bin\Debug\ConsoleApp1.exe
+F:\Github\DevOpsAssignment\ConsoleApp1\DevOpsAssignment_IntegrationTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+F:\Github\DevOpsAssignment\ConsoleApp1\DevOpsAssignment_IntegrationTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+F:\Github\DevOpsAssignment\ConsoleApp1\DevOpsAssignment_IntegrationTests\bin\Debug\ConsoleApp1.pdb
+F:\Github\DevOpsAssignment\ConsoleApp1\DevOpsAssignment_IntegrationTests\bin\Debug\ConsoleApp1.exe.config
+F:\Github\DevOpsAssignment\ConsoleApp1\DevOpsAssignment_IntegrationTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+F:\Github\DevOpsAssignment\ConsoleApp1\DevOpsAssignment_IntegrationTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+F:\Github\DevOpsAssignment\ConsoleApp1\DevOpsAssignment_IntegrationTests\obj\Debug\DevOpsAssignment_IntegrationTests.csprojResolveAssemblyReference.cache
+F:\Github\DevOpsAssignment\ConsoleApp1\DevOpsAssignment_IntegrationTests\obj\Debug\DevOpsAssignment_IntegrationTests.csproj.CoreCompileInputs.cache
+F:\Github\DevOpsAssignment\ConsoleApp1\DevOpsAssignment_IntegrationTests\obj\Debug\DevOpsAssignment_IntegrationTests.dll
+F:\Github\DevOpsAssignment\ConsoleApp1\DevOpsAssignment_IntegrationTests\obj\Debug\DevOpsAssignment_IntegrationTests.pdb
